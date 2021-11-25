@@ -21,12 +21,12 @@ This repository provides two open-source sample datasets of the larger consortiu
 
 
 ## Notes
-* For all tests dated before September 25th, 2021: Offset thermocouple measurements by 1.5°C (i.e. 30°C -> 28.5°C)
-* Unless stated otherwise, all cells are stored in a controlled climate at 15°C
+* For all tests dated before September 25th, 2021: Offset thermocouple measurements by 1.5°C (i.e. 30°C -> 28.5°C).
+* Unless stated otherwise, all cells are stored in a controlled climate at 15°C.
 
 
 ## Consortium Overview
-An abriged overview describing the tests completed and data organisation can be found in [here]
+An abriged overview describing the tests completed and data organisation can be found in [here].
 
 
 ## Contact / Issues
@@ -35,5 +35,5 @@ To get involved or discuss testing methods, please contact hves@brookes.ac.uk.
 
 
 [issue]: https://github.com/Oxford-Brookes-HVES/BTC/issues
-[resources]: https://github.com/Oxford-Brookes-HVES/BTC/BTC-Overview.pdf
+[here]: https://github.com/Oxford-Brookes-HVES/BTC/BTC-Overview.pdf
 [HVES website]: https://hves.brookes.ac.uk/
