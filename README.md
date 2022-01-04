@@ -36,4 +36,4 @@ To get involved or discuss testing methods, please contact hves@brookes.ac.uk.
 
 [issue]: https://github.com/Oxford-Brookes-HVES/BTC/issues
 [here]: https://github.com/Oxford-Brookes-HVES/BTC/blob/main/BTC-Overview.pdf
-[HVES website]: https://hves.brookes.ac.uk/
+[HVES website]: https://hves.brookes.ac.uk/btc/
