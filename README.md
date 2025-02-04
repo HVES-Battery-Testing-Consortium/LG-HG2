@@ -1,9 +1,10 @@
 # Battery Testing Consortium (BTC)
 The Battery Testing Consortium (BTC) has been developed within the High Voltage and Energy Storage Lab at Oxford Brookes University to provide accurate and comprehensive cell data to Formula Student Electric teams. Through the BTC, we aim to provide FS teams with information for improved and informed decisions for cell selection, pack architecture design, thermal cooling requirements, and end of life predictions. A range of tests are completed to provide a comprehensive electrochemical lithium-ion characterisation for modelling, validation, and battery management parameterisation.
 
-This repository provides one open-source sample dataset of the larger consortium dataset. To join the consortium, visit the [HVES website].
+An example cell, the LG HG2 is available to view without joining the consortium. To join, please request membership using this [Google Forms].   
+Data will be uploaded to the relavent repository as available. 
 
-## Total Consortium Cells
+## Consortium Cells
 |Cell|Chemistry|Nom. Voltage [V]|Nom. Capacity [Ah]|Energy Density [Wh/kg]|
 |---|---|---|---|---|
 | Samsung 25R  | NMC  | 3.6  | 2.5  | 206  |
@@ -14,10 +15,12 @@ This repository provides one open-source sample dataset of the larger consortium
 |  Melasta SLPB8346143 | LCO  | 3.7  | 6.3  | 196  |
 |  Melasta SLPBB142124  | LCO  | 3.7  | 6.8  | 202  |
 |  Melasta SLPB8870175 | LCO  | 3.7  | 12  | 197  |
-|  Melasta SLPB7336128HV | NMC  | 3.8  | 3.7  | 204  |
-|  Melasta SLPB9542124HV | NMC  | 3.8  | 5.95  | 215  |
-|  Melasta SLPBB042126HV | NMC  |  3.8 | 7.5  | 228 |
-|  Melasta SLPB7579207HV| NMC  | 3.8  | 15.4  | 227  |
+|  Melasta SLPB7336128HV | NMC / LCO  | 3.8  | 3.7  | 204  |
+|  Melasta SLPB9542124HV | NMC / LCO  | 3.8  | 5.95  | 215  |
+|  Melasta SLPBB042126HV | NMC / LCO  |  3.8 | 7.5  | 228 |
+|  Melasta SLPB7579207HV| NMC / LCO  | 3.8  | 15.4  | 227  |
+
+[Google Forms]: https://forms.gle/Z6nKQUz551RHK2yF6
 
 
 ## Notes
